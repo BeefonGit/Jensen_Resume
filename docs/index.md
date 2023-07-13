@@ -51,6 +51,8 @@ _Is trained in Quarto and Markdown, to create comprehensive reports from the dat
 ## Other Skills
 _Works flawlessly under pressure. In fact I would argue that I work better under pressure. Worked in several emergency life or death situations at Becklar to prove and refine this._
 
+_Communication skills. Worked in communications for an emergency company and learned excellent communication skills._
+
 ## Data Science Society
 _Member for over 6 months, and has worked with some of the finest Data Scientists out there._
 
